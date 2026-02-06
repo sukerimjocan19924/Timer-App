@@ -1,0 +1,32 @@
+button {
+    padding: 10px;
+    font-size: 14px;
+    margin-left: 10px;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.start {
+    background-color: green;
+}
+
+.start:hover {
+    background-color: rgb(37, 194, 37);
+}
+
+.pause {
+    background-color: red;
+}
+
+.pause:hover {
+    background-color: rgb(255, 102, 102);
+}
+
+.reset {
+    background-color: blue;
+}
+
+.reset:hover {
+    background-color: rgb(67, 67, 255);
+}
